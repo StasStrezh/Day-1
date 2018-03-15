@@ -1,0 +1,6 @@
+F:\Stas\Ucheba\Курсы\multi_file assembly\StrongNameSol\BookClass\bin\Debug\BookClass.dll
+F:\Stas\Ucheba\Курсы\multi_file assembly\StrongNameSol\BookClass\bin\Debug\BookClass.pdb
+F:\Stas\Ucheba\Курсы\multi_file assembly\StrongNameSol\BookClass\obj\Debug\BookClass.csprojResolveAssemblyReference.cache
+F:\Stas\Ucheba\Курсы\multi_file assembly\StrongNameSol\BookClass\obj\Debug\BookClass.csproj.CoreCompileInputs.cache
+F:\Stas\Ucheba\Курсы\multi_file assembly\StrongNameSol\BookClass\obj\Debug\BookClass.dll
+F:\Stas\Ucheba\Курсы\multi_file assembly\StrongNameSol\BookClass\obj\Debug\BookClass.pdb

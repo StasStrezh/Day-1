@@ -1,0 +1,10 @@
+F:\Stas\Ucheba\Курсы\multi_file assembly\StrongNameSol\StrongNameSol\bin\Debug\StrongNameSol.exe.config
+F:\Stas\Ucheba\Курсы\multi_file assembly\StrongNameSol\StrongNameSol\bin\Debug\StrongNameSol.exe
+F:\Stas\Ucheba\Курсы\multi_file assembly\StrongNameSol\StrongNameSol\bin\Debug\StrongNameSol.pdb
+F:\Stas\Ucheba\Курсы\multi_file assembly\StrongNameSol\StrongNameSol\bin\Debug\BookClass.dll
+F:\Stas\Ucheba\Курсы\multi_file assembly\StrongNameSol\StrongNameSol\bin\Debug\BookClass.pdb
+F:\Stas\Ucheba\Курсы\multi_file assembly\StrongNameSol\StrongNameSol\obj\Debug\StrongNameSol.csprojResolveAssemblyReference.cache
+F:\Stas\Ucheba\Курсы\multi_file assembly\StrongNameSol\StrongNameSol\obj\Debug\StrongNameSol.csproj.CoreCompileInputs.cache
+F:\Stas\Ucheba\Курсы\multi_file assembly\StrongNameSol\StrongNameSol\obj\Debug\StrongNameSol.csproj.CopyComplete
+F:\Stas\Ucheba\Курсы\multi_file assembly\StrongNameSol\StrongNameSol\obj\Debug\StrongNameSol.exe
+F:\Stas\Ucheba\Курсы\multi_file assembly\StrongNameSol\StrongNameSol\obj\Debug\StrongNameSol.pdb
