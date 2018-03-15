@@ -20,7 +20,7 @@ namespace MergeSortTest
             int[] actual = Sort(arr);
 
             // Assert
-            Assert.AreEqual(expected, actual);
+            CollectionAssert.AreEqual(expected, actual);
 
         }
 
@@ -36,7 +36,7 @@ namespace MergeSortTest
             int[] actual = Sort(ar);
 
             // Assert
-            Assert.AreEqual(expected, actual);
+            CollectionAssert.AreEqual(expected, actual);
 
         }
 
