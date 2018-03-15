@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\MergeSort\MergeSort\bin\Debug\MergeSort.dll
+C:\Users\User\source\repos\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\User\source\repos\MergeSort\MergeSort\obj\Debug\MergeSort.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\MergeSort\MergeSort\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MergeSort\MergeSort\obj\Debug\MergeSort.dll
+C:\Users\User\source\repos\MergeSort\MergeSort\obj\Debug\MergeSort.pdb

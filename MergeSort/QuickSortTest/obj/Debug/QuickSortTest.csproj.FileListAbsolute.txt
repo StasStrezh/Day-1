@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MergeSort\QuickSortTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\source\repos\MergeSort\QuickSortTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\source\repos\MergeSort\QuickSortTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\source\repos\MergeSort\QuickSortTest\bin\Debug\QuickSortTest.dll
+C:\Users\User\source\repos\MergeSort\QuickSortTest\bin\Debug\QuickSortTest.pdb
+C:\Users\User\source\repos\MergeSort\QuickSortTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\source\repos\MergeSort\QuickSortTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User\source\repos\MergeSort\QuickSortTest\bin\Debug\QuickSortLogic.dll
+C:\Users\User\source\repos\MergeSort\QuickSortTest\bin\Debug\QuickSortLogic.pdb
+C:\Users\User\source\repos\MergeSort\QuickSortTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User\source\repos\MergeSort\QuickSortTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\User\source\repos\MergeSort\QuickSortTest\obj\Debug\QuickSortTest.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\MergeSort\QuickSortTest\obj\Debug\QuickSortTest.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MergeSort\QuickSortTest\obj\Debug\QuickSortTest.csproj.CopyComplete
+C:\Users\User\source\repos\MergeSort\QuickSortTest\obj\Debug\QuickSortTest.dll
+C:\Users\User\source\repos\MergeSort\QuickSortTest\obj\Debug\QuickSortTest.pdb

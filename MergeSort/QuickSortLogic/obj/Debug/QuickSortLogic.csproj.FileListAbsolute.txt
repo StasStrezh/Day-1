@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\MergeSort\QuickSortLogic\bin\Debug\QuickSortLogic.dll
+C:\Users\User\source\repos\MergeSort\QuickSortLogic\bin\Debug\QuickSortLogic.pdb
+C:\Users\User\source\repos\MergeSort\QuickSortLogic\obj\Debug\QuickSortLogic.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\MergeSort\QuickSortLogic\obj\Debug\QuickSortLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MergeSort\QuickSortLogic\obj\Debug\QuickSortLogic.dll
+C:\Users\User\source\repos\MergeSort\QuickSortLogic\obj\Debug\QuickSortLogic.pdb
