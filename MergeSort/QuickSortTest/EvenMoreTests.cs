@@ -21,7 +21,7 @@ namespace QuickSortTest
             int[] actual = Quicksort(arr);
 
             // Assert
-            Assert.AreEqual(expected, actual);
+            CollectionAssert.AreEqual(expected, actual);
 
         }
 
@@ -37,7 +37,7 @@ namespace QuickSortTest
             int[] actual = Quicksort(ar);
 
             // Assert
-            Assert.AreEqual(expected, actual);
+            CollectionAssert.AreEqual(expected, actual);
 
         }
 
